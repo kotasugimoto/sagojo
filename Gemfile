@@ -45,3 +45,12 @@ group :development do
   gem 'spring'
 end
 
+gem 'kaminari'
+gem 'pry-rails'
+gem 'erb2haml'
+gem 'haml-rails'
+gem 'view_source_map'
+gem 'bootstrap-sass'
+gem 'bootstrap_form'
+
+
