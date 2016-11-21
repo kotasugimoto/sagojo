@@ -1,0 +1,2 @@
+module SugoiLaboHelper
+end

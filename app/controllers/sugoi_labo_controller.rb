@@ -1,0 +1,2 @@
+class SugoiLaboController < ApplicationController
+end
